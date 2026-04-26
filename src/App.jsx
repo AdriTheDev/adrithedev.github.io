@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 
-import avatarImg from './assets/avatar.jpg';
+import avatarImg from './assets/avatar.png';
 
 const NAV_LINKS = ['About', 'Projects', 'Connect'];
 
