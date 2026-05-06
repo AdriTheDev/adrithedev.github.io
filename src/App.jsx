@@ -165,7 +165,6 @@ function Hero() {
 	return (
 		<section className="hero" id="About">
 			<div className="hero-content">
-				<div className="hero-badge">Available for opportunities</div>
 				<h1 className="hero-title">
 					<span className="title-line">Callum Hicks</span>
 					<span className="title-line accent">(Adri)</span>
